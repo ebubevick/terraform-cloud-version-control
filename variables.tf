@@ -4,7 +4,7 @@ variable "subscription" {
 variable "resource_group_name" {
   description = "resource group name"
   type        = string
-  default     = "production-dev"
+  default     = "production-development"
 
 }
 
